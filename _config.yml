@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://emantos.github.io
+title: mono.chrome
+tagline: code/image/poetry
+description: this is basically my brain dump
+paginate: 5
