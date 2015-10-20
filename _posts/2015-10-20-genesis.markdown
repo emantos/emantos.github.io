@@ -1,0 +1,8 @@
+---
+published: true
+title: Genesis
+layout: post
+---
+We all have to begin somewhere.
+
+First post @ 20/10/2015.
